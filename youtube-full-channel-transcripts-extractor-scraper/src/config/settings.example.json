@@ -1,0 +1,5 @@
+{
+    "api_key": "YOUR_YOUTUBE_API_KEY",
+    "max_video_count": 1000,
+    "output_formats": ["json", "srt", "vtt"]
+}
